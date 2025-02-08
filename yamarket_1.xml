@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-02-08T14:42:36.375Z">
+<yml_catalog date="2025-02-08T14:45:02.470Z">
   <shop>
     <name>Origami Chocolate</name>
     <company>Origami Chocolate</company>
     <url>https://origami-chocolate.ru</url>
     <platform>Origami Chocolate</platform>
+    <categories>
+      <category id="1">Default</category>
+    </categories>
     <offers>
       <offer>
         <sku>NY06</sku>
