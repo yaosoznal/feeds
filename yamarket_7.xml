@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-02-19T14:22:32.343+00:00">
+<yml_catalog date="2025-02-19T14:25:23.682+00:00">
   <shop>
     <name>Origami Chocolate</name>
     <company>Origami Chocolate</company>
@@ -12,13 +12,13 @@
       <offer id="love12">
         <count>3</count>
       </offer>
+      <offer id="val02">
+        <count>12</count>
+      </offer>
       <offer id="love06">
         <count>4</count>
       </offer>
       <offer id="val01">
-        <count>12</count>
-      </offer>
-      <offer id="val02">
         <count>12</count>
       </offer>
       <offer id="val03">
@@ -30,13 +30,13 @@
       <offer id="love12">
         <count>3</count>
       </offer>
+      <offer id="val02">
+        <count>12</count>
+      </offer>
       <offer id="love06">
         <count>4</count>
       </offer>
       <offer id="val01">
-        <count>12</count>
-      </offer>
-      <offer id="val02">
         <count>12</count>
       </offer>
       <offer id="val03">
@@ -48,13 +48,13 @@
       <offer id="love12">
         <count>3</count>
       </offer>
+      <offer id="val02">
+        <count>12</count>
+      </offer>
       <offer id="love06">
         <count>4</count>
       </offer>
       <offer id="val01">
-        <count>12</count>
-      </offer>
-      <offer id="val02">
         <count>12</count>
       </offer>
       <offer id="val03">
@@ -66,13 +66,13 @@
       <offer id="love12">
         <count>3</count>
       </offer>
+      <offer id="val02">
+        <count>12</count>
+      </offer>
       <offer id="love06">
         <count>4</count>
       </offer>
       <offer id="val01">
-        <count>12</count>
-      </offer>
-      <offer id="val02">
         <count>12</count>
       </offer>
       <offer id="val03">
@@ -84,13 +84,13 @@
       <offer id="love12">
         <count>3</count>
       </offer>
+      <offer id="val02">
+        <count>12</count>
+      </offer>
       <offer id="love06">
         <count>4</count>
       </offer>
       <offer id="val01">
-        <count>12</count>
-      </offer>
-      <offer id="val02">
         <count>12</count>
       </offer>
       <offer id="val03">
@@ -102,13 +102,13 @@
       <offer id="love12">
         <count>3</count>
       </offer>
+      <offer id="val02">
+        <count>12</count>
+      </offer>
       <offer id="love06">
         <count>4</count>
       </offer>
       <offer id="val01">
-        <count>12</count>
-      </offer>
-      <offer id="val02">
         <count>12</count>
       </offer>
       <offer id="val03">
@@ -120,13 +120,13 @@
       <offer id="love12">
         <count>3</count>
       </offer>
+      <offer id="val02">
+        <count>12</count>
+      </offer>
       <offer id="love06">
         <count>4</count>
       </offer>
       <offer id="val01">
-        <count>12</count>
-      </offer>
-      <offer id="val02">
         <count>12</count>
       </offer>
       <offer id="val03">
@@ -138,13 +138,13 @@
       <offer id="love12">
         <count>3</count>
       </offer>
+      <offer id="val02">
+        <count>12</count>
+      </offer>
       <offer id="love06">
         <count>4</count>
       </offer>
       <offer id="val01">
-        <count>12</count>
-      </offer>
-      <offer id="val02">
         <count>12</count>
       </offer>
       <offer id="val03">
@@ -156,13 +156,13 @@
       <offer id="love12">
         <count>3</count>
       </offer>
+      <offer id="val02">
+        <count>12</count>
+      </offer>
       <offer id="love06">
         <count>4</count>
       </offer>
       <offer id="val01">
-        <count>12</count>
-      </offer>
-      <offer id="val02">
         <count>12</count>
       </offer>
       <offer id="val03">
@@ -174,13 +174,13 @@
       <offer id="love12">
         <count>3</count>
       </offer>
+      <offer id="val02">
+        <count>12</count>
+      </offer>
       <offer id="love06">
         <count>4</count>
       </offer>
       <offer id="val01">
-        <count>12</count>
-      </offer>
-      <offer id="val02">
         <count>12</count>
       </offer>
       <offer id="val03">
@@ -192,13 +192,13 @@
       <offer id="love12">
         <count>3</count>
       </offer>
+      <offer id="val02">
+        <count>12</count>
+      </offer>
       <offer id="love06">
         <count>4</count>
       </offer>
       <offer id="val01">
-        <count>12</count>
-      </offer>
-      <offer id="val02">
         <count>12</count>
       </offer>
       <offer id="val03">
@@ -210,13 +210,13 @@
       <offer id="love12">
         <count>3</count>
       </offer>
+      <offer id="val02">
+        <count>12</count>
+      </offer>
       <offer id="love06">
         <count>4</count>
       </offer>
       <offer id="val01">
-        <count>12</count>
-      </offer>
-      <offer id="val02">
         <count>12</count>
       </offer>
       <offer id="val03">
@@ -228,13 +228,13 @@
       <offer id="love12">
         <count>3</count>
       </offer>
+      <offer id="val02">
+        <count>12</count>
+      </offer>
       <offer id="love06">
         <count>4</count>
       </offer>
       <offer id="val01">
-        <count>12</count>
-      </offer>
-      <offer id="val02">
         <count>12</count>
       </offer>
       <offer id="val03">
@@ -246,13 +246,13 @@
       <offer id="love12">
         <count>3</count>
       </offer>
+      <offer id="val02">
+        <count>12</count>
+      </offer>
       <offer id="love06">
         <count>4</count>
       </offer>
       <offer id="val01">
-        <count>12</count>
-      </offer>
-      <offer id="val02">
         <count>12</count>
       </offer>
       <offer id="val03">
@@ -264,13 +264,13 @@
       <offer id="love12">
         <count>3</count>
       </offer>
+      <offer id="val02">
+        <count>12</count>
+      </offer>
       <offer id="love06">
         <count>4</count>
       </offer>
       <offer id="val01">
-        <count>12</count>
-      </offer>
-      <offer id="val02">
         <count>12</count>
       </offer>
       <offer id="val03">
@@ -282,13 +282,13 @@
       <offer id="love12">
         <count>3</count>
       </offer>
+      <offer id="val02">
+        <count>12</count>
+      </offer>
       <offer id="love06">
         <count>4</count>
       </offer>
       <offer id="val01">
-        <count>12</count>
-      </offer>
-      <offer id="val02">
         <count>12</count>
       </offer>
       <offer id="val03">
@@ -300,13 +300,13 @@
       <offer id="love12">
         <count>3</count>
       </offer>
+      <offer id="val02">
+        <count>12</count>
+      </offer>
       <offer id="love06">
         <count>4</count>
       </offer>
       <offer id="val01">
-        <count>12</count>
-      </offer>
-      <offer id="val02">
         <count>12</count>
       </offer>
       <offer id="val03">
@@ -318,13 +318,13 @@
       <offer id="love12">
         <count>3</count>
       </offer>
+      <offer id="val02">
+        <count>12</count>
+      </offer>
       <offer id="love06">
         <count>4</count>
       </offer>
       <offer id="val01">
-        <count>12</count>
-      </offer>
-      <offer id="val02">
         <count>12</count>
       </offer>
       <offer id="val03">
@@ -336,13 +336,13 @@
       <offer id="love12">
         <count>3</count>
       </offer>
+      <offer id="val02">
+        <count>12</count>
+      </offer>
       <offer id="love06">
         <count>4</count>
       </offer>
       <offer id="val01">
-        <count>12</count>
-      </offer>
-      <offer id="val02">
         <count>12</count>
       </offer>
       <offer id="val03">
@@ -354,13 +354,13 @@
       <offer id="love12">
         <count>3</count>
       </offer>
+      <offer id="val02">
+        <count>12</count>
+      </offer>
       <offer id="love06">
         <count>4</count>
       </offer>
       <offer id="val01">
-        <count>12</count>
-      </offer>
-      <offer id="val02">
         <count>12</count>
       </offer>
       <offer id="val03">
@@ -372,13 +372,13 @@
       <offer id="love12">
         <count>3</count>
       </offer>
+      <offer id="val02">
+        <count>12</count>
+      </offer>
       <offer id="love06">
         <count>4</count>
       </offer>
       <offer id="val01">
-        <count>12</count>
-      </offer>
-      <offer id="val02">
         <count>12</count>
       </offer>
       <offer id="val03">
@@ -390,13 +390,13 @@
       <offer id="love12">
         <count>3</count>
       </offer>
+      <offer id="val02">
+        <count>12</count>
+      </offer>
       <offer id="love06">
         <count>4</count>
       </offer>
       <offer id="val01">
-        <count>12</count>
-      </offer>
-      <offer id="val02">
         <count>12</count>
       </offer>
       <offer id="val03">
@@ -408,13 +408,13 @@
       <offer id="love12">
         <count>3</count>
       </offer>
+      <offer id="val02">
+        <count>12</count>
+      </offer>
       <offer id="love06">
         <count>4</count>
       </offer>
       <offer id="val01">
-        <count>12</count>
-      </offer>
-      <offer id="val02">
         <count>12</count>
       </offer>
       <offer id="val03">
@@ -426,13 +426,13 @@
       <offer id="love12">
         <count>3</count>
       </offer>
+      <offer id="val02">
+        <count>12</count>
+      </offer>
       <offer id="love06">
         <count>4</count>
       </offer>
       <offer id="val01">
-        <count>12</count>
-      </offer>
-      <offer id="val02">
         <count>12</count>
       </offer>
       <offer id="val03">
@@ -444,13 +444,13 @@
       <offer id="love12">
         <count>3</count>
       </offer>
+      <offer id="val02">
+        <count>12</count>
+      </offer>
       <offer id="love06">
         <count>4</count>
       </offer>
       <offer id="val01">
-        <count>12</count>
-      </offer>
-      <offer id="val02">
         <count>12</count>
       </offer>
       <offer id="val03">
@@ -462,13 +462,13 @@
       <offer id="love12">
         <count>3</count>
       </offer>
+      <offer id="val02">
+        <count>12</count>
+      </offer>
       <offer id="love06">
         <count>4</count>
       </offer>
       <offer id="val01">
-        <count>12</count>
-      </offer>
-      <offer id="val02">
         <count>12</count>
       </offer>
       <offer id="val03">
@@ -480,13 +480,13 @@
       <offer id="love12">
         <count>3</count>
       </offer>
+      <offer id="val02">
+        <count>12</count>
+      </offer>
       <offer id="love06">
         <count>4</count>
       </offer>
       <offer id="val01">
-        <count>12</count>
-      </offer>
-      <offer id="val02">
         <count>12</count>
       </offer>
       <offer id="val03">
@@ -498,13 +498,13 @@
       <offer id="love12">
         <count>3</count>
       </offer>
+      <offer id="val02">
+        <count>12</count>
+      </offer>
       <offer id="love06">
         <count>4</count>
       </offer>
       <offer id="val01">
-        <count>12</count>
-      </offer>
-      <offer id="val02">
         <count>12</count>
       </offer>
       <offer id="val03">
@@ -516,13 +516,13 @@
       <offer id="love12">
         <count>3</count>
       </offer>
+      <offer id="val02">
+        <count>12</count>
+      </offer>
       <offer id="love06">
         <count>4</count>
       </offer>
       <offer id="val01">
-        <count>12</count>
-      </offer>
-      <offer id="val02">
         <count>12</count>
       </offer>
       <offer id="val03">
@@ -534,13 +534,13 @@
       <offer id="love12">
         <count>3</count>
       </offer>
+      <offer id="val02">
+        <count>12</count>
+      </offer>
       <offer id="love06">
         <count>4</count>
       </offer>
       <offer id="val01">
-        <count>12</count>
-      </offer>
-      <offer id="val02">
         <count>12</count>
       </offer>
       <offer id="val03">
@@ -552,13 +552,13 @@
       <offer id="love12">
         <count>3</count>
       </offer>
+      <offer id="val02">
+        <count>12</count>
+      </offer>
       <offer id="love06">
         <count>4</count>
       </offer>
       <offer id="val01">
-        <count>12</count>
-      </offer>
-      <offer id="val02">
         <count>12</count>
       </offer>
       <offer id="val03">
@@ -570,13 +570,13 @@
       <offer id="love12">
         <count>3</count>
       </offer>
+      <offer id="val02">
+        <count>12</count>
+      </offer>
       <offer id="love06">
         <count>4</count>
       </offer>
       <offer id="val01">
-        <count>12</count>
-      </offer>
-      <offer id="val02">
         <count>12</count>
       </offer>
       <offer id="val03">
@@ -588,13 +588,13 @@
       <offer id="love12">
         <count>3</count>
       </offer>
+      <offer id="val02">
+        <count>12</count>
+      </offer>
       <offer id="love06">
         <count>4</count>
       </offer>
       <offer id="val01">
-        <count>12</count>
-      </offer>
-      <offer id="val02">
         <count>12</count>
       </offer>
       <offer id="val03">
@@ -606,13 +606,13 @@
       <offer id="love12">
         <count>3</count>
       </offer>
+      <offer id="val02">
+        <count>12</count>
+      </offer>
       <offer id="love06">
         <count>4</count>
       </offer>
       <offer id="val01">
-        <count>12</count>
-      </offer>
-      <offer id="val02">
         <count>12</count>
       </offer>
       <offer id="val03">
@@ -624,13 +624,13 @@
       <offer id="love12">
         <count>3</count>
       </offer>
+      <offer id="val02">
+        <count>12</count>
+      </offer>
       <offer id="love06">
         <count>4</count>
       </offer>
       <offer id="val01">
-        <count>12</count>
-      </offer>
-      <offer id="val02">
         <count>12</count>
       </offer>
       <offer id="val03">
@@ -642,13 +642,13 @@
       <offer id="love12">
         <count>3</count>
       </offer>
+      <offer id="val02">
+        <count>12</count>
+      </offer>
       <offer id="love06">
         <count>4</count>
       </offer>
       <offer id="val01">
-        <count>12</count>
-      </offer>
-      <offer id="val02">
         <count>12</count>
       </offer>
       <offer id="val03">
@@ -660,13 +660,13 @@
       <offer id="love12">
         <count>3</count>
       </offer>
+      <offer id="val02">
+        <count>12</count>
+      </offer>
       <offer id="love06">
         <count>4</count>
       </offer>
       <offer id="val01">
-        <count>12</count>
-      </offer>
-      <offer id="val02">
         <count>12</count>
       </offer>
       <offer id="val03">
@@ -678,13 +678,13 @@
       <offer id="love12">
         <count>3</count>
       </offer>
+      <offer id="val02">
+        <count>12</count>
+      </offer>
       <offer id="love06">
         <count>4</count>
       </offer>
       <offer id="val01">
-        <count>12</count>
-      </offer>
-      <offer id="val02">
         <count>12</count>
       </offer>
       <offer id="val03">
@@ -696,13 +696,13 @@
       <offer id="love12">
         <count>3</count>
       </offer>
+      <offer id="val02">
+        <count>12</count>
+      </offer>
       <offer id="love06">
         <count>4</count>
       </offer>
       <offer id="val01">
-        <count>12</count>
-      </offer>
-      <offer id="val02">
         <count>12</count>
       </offer>
       <offer id="val03">
@@ -714,13 +714,13 @@
       <offer id="love12">
         <count>3</count>
       </offer>
+      <offer id="val02">
+        <count>12</count>
+      </offer>
       <offer id="love06">
         <count>4</count>
       </offer>
       <offer id="val01">
-        <count>12</count>
-      </offer>
-      <offer id="val02">
         <count>12</count>
       </offer>
       <offer id="val03">
@@ -732,13 +732,13 @@
       <offer id="love12">
         <count>3</count>
       </offer>
+      <offer id="val02">
+        <count>12</count>
+      </offer>
       <offer id="love06">
         <count>4</count>
       </offer>
       <offer id="val01">
-        <count>12</count>
-      </offer>
-      <offer id="val02">
         <count>12</count>
       </offer>
       <offer id="val03">
@@ -750,13 +750,13 @@
       <offer id="love12">
         <count>3</count>
       </offer>
+      <offer id="val02">
+        <count>12</count>
+      </offer>
       <offer id="love06">
         <count>4</count>
       </offer>
       <offer id="val01">
-        <count>12</count>
-      </offer>
-      <offer id="val02">
         <count>12</count>
       </offer>
       <offer id="val03">
@@ -768,13 +768,13 @@
       <offer id="love12">
         <count>3</count>
       </offer>
+      <offer id="val02">
+        <count>12</count>
+      </offer>
       <offer id="love06">
         <count>4</count>
       </offer>
       <offer id="val01">
-        <count>12</count>
-      </offer>
-      <offer id="val02">
         <count>12</count>
       </offer>
       <offer id="val03">
@@ -786,13 +786,13 @@
       <offer id="love12">
         <count>3</count>
       </offer>
+      <offer id="val02">
+        <count>12</count>
+      </offer>
       <offer id="love06">
         <count>4</count>
       </offer>
       <offer id="val01">
-        <count>12</count>
-      </offer>
-      <offer id="val02">
         <count>12</count>
       </offer>
       <offer id="val03">
@@ -804,13 +804,13 @@
       <offer id="love12">
         <count>3</count>
       </offer>
+      <offer id="val02">
+        <count>12</count>
+      </offer>
       <offer id="love06">
         <count>4</count>
       </offer>
       <offer id="val01">
-        <count>12</count>
-      </offer>
-      <offer id="val02">
         <count>12</count>
       </offer>
       <offer id="val03">
@@ -822,13 +822,13 @@
       <offer id="love12">
         <count>3</count>
       </offer>
+      <offer id="val02">
+        <count>12</count>
+      </offer>
       <offer id="love06">
         <count>4</count>
       </offer>
       <offer id="val01">
-        <count>12</count>
-      </offer>
-      <offer id="val02">
         <count>12</count>
       </offer>
       <offer id="val03">
@@ -840,13 +840,13 @@
       <offer id="love12">
         <count>3</count>
       </offer>
+      <offer id="val02">
+        <count>12</count>
+      </offer>
       <offer id="love06">
         <count>4</count>
       </offer>
       <offer id="val01">
-        <count>12</count>
-      </offer>
-      <offer id="val02">
         <count>12</count>
       </offer>
       <offer id="val03">
@@ -858,13 +858,13 @@
       <offer id="love12">
         <count>3</count>
       </offer>
+      <offer id="val02">
+        <count>12</count>
+      </offer>
       <offer id="love06">
         <count>4</count>
       </offer>
       <offer id="val01">
-        <count>12</count>
-      </offer>
-      <offer id="val02">
         <count>12</count>
       </offer>
       <offer id="val03">
@@ -876,13 +876,13 @@
       <offer id="love12">
         <count>3</count>
       </offer>
+      <offer id="val02">
+        <count>12</count>
+      </offer>
       <offer id="love06">
         <count>4</count>
       </offer>
       <offer id="val01">
-        <count>12</count>
-      </offer>
-      <offer id="val02">
         <count>12</count>
       </offer>
       <offer id="val03">
@@ -894,13 +894,13 @@
       <offer id="love12">
         <count>3</count>
       </offer>
+      <offer id="val02">
+        <count>12</count>
+      </offer>
       <offer id="love06">
         <count>4</count>
       </offer>
       <offer id="val01">
-        <count>12</count>
-      </offer>
-      <offer id="val02">
         <count>12</count>
       </offer>
       <offer id="val03">
@@ -912,13 +912,13 @@
       <offer id="love12">
         <count>3</count>
       </offer>
+      <offer id="val02">
+        <count>12</count>
+      </offer>
       <offer id="love06">
         <count>4</count>
       </offer>
       <offer id="val01">
-        <count>12</count>
-      </offer>
-      <offer id="val02">
         <count>12</count>
       </offer>
       <offer id="val03">
@@ -930,13 +930,13 @@
       <offer id="love12">
         <count>3</count>
       </offer>
+      <offer id="val02">
+        <count>12</count>
+      </offer>
       <offer id="love06">
         <count>4</count>
       </offer>
       <offer id="val01">
-        <count>12</count>
-      </offer>
-      <offer id="val02">
         <count>12</count>
       </offer>
       <offer id="val03">
@@ -948,13 +948,13 @@
       <offer id="love12">
         <count>3</count>
       </offer>
+      <offer id="val02">
+        <count>12</count>
+      </offer>
       <offer id="love06">
         <count>4</count>
       </offer>
       <offer id="val01">
-        <count>12</count>
-      </offer>
-      <offer id="val02">
         <count>12</count>
       </offer>
       <offer id="val03">
@@ -966,13 +966,13 @@
       <offer id="love12">
         <count>3</count>
       </offer>
+      <offer id="val02">
+        <count>12</count>
+      </offer>
       <offer id="love06">
         <count>4</count>
       </offer>
       <offer id="val01">
-        <count>12</count>
-      </offer>
-      <offer id="val02">
         <count>12</count>
       </offer>
       <offer id="val03">
@@ -984,13 +984,13 @@
       <offer id="love12">
         <count>3</count>
       </offer>
+      <offer id="val02">
+        <count>12</count>
+      </offer>
       <offer id="love06">
         <count>4</count>
       </offer>
       <offer id="val01">
-        <count>12</count>
-      </offer>
-      <offer id="val02">
         <count>12</count>
       </offer>
       <offer id="val03">
@@ -1002,13 +1002,13 @@
       <offer id="love12">
         <count>3</count>
       </offer>
+      <offer id="val02">
+        <count>12</count>
+      </offer>
       <offer id="love06">
         <count>4</count>
       </offer>
       <offer id="val01">
-        <count>12</count>
-      </offer>
-      <offer id="val02">
         <count>12</count>
       </offer>
       <offer id="val03">
@@ -1020,13 +1020,13 @@
       <offer id="love12">
         <count>3</count>
       </offer>
+      <offer id="val02">
+        <count>12</count>
+      </offer>
       <offer id="love06">
         <count>4</count>
       </offer>
       <offer id="val01">
-        <count>12</count>
-      </offer>
-      <offer id="val02">
         <count>12</count>
       </offer>
       <offer id="val03">
@@ -1038,13 +1038,13 @@
       <offer id="love12">
         <count>3</count>
       </offer>
+      <offer id="val02">
+        <count>12</count>
+      </offer>
       <offer id="love06">
         <count>4</count>
       </offer>
       <offer id="val01">
-        <count>12</count>
-      </offer>
-      <offer id="val02">
         <count>12</count>
       </offer>
       <offer id="val03">
@@ -1056,13 +1056,13 @@
       <offer id="love12">
         <count>3</count>
       </offer>
+      <offer id="val02">
+        <count>12</count>
+      </offer>
       <offer id="love06">
         <count>4</count>
       </offer>
       <offer id="val01">
-        <count>12</count>
-      </offer>
-      <offer id="val02">
         <count>12</count>
       </offer>
       <offer id="val03">
@@ -1074,13 +1074,13 @@
       <offer id="love12">
         <count>3</count>
       </offer>
+      <offer id="val02">
+        <count>12</count>
+      </offer>
       <offer id="love06">
         <count>4</count>
       </offer>
       <offer id="val01">
-        <count>12</count>
-      </offer>
-      <offer id="val02">
         <count>12</count>
       </offer>
       <offer id="val03">
@@ -1092,13 +1092,13 @@
       <offer id="love12">
         <count>3</count>
       </offer>
+      <offer id="val02">
+        <count>12</count>
+      </offer>
       <offer id="love06">
         <count>4</count>
       </offer>
       <offer id="val01">
-        <count>12</count>
-      </offer>
-      <offer id="val02">
         <count>12</count>
       </offer>
       <offer id="val03">
@@ -1110,13 +1110,13 @@
       <offer id="love12">
         <count>3</count>
       </offer>
+      <offer id="val02">
+        <count>12</count>
+      </offer>
       <offer id="love06">
         <count>4</count>
       </offer>
       <offer id="val01">
-        <count>12</count>
-      </offer>
-      <offer id="val02">
         <count>12</count>
       </offer>
       <offer id="val03">
@@ -1128,13 +1128,13 @@
       <offer id="love12">
         <count>3</count>
       </offer>
+      <offer id="val02">
+        <count>12</count>
+      </offer>
       <offer id="love06">
         <count>4</count>
       </offer>
       <offer id="val01">
-        <count>12</count>
-      </offer>
-      <offer id="val02">
         <count>12</count>
       </offer>
       <offer id="val03">
