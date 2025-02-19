@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-02-19T14:13:24.880+00:00">
+<yml_catalog date="2025-02-19T14:14:31.227+00:00">
   <shop>
     <name>Origami Chocolate</name>
     <company>Origami Chocolate</company>
@@ -9,6 +9,750 @@
       <category id="1">Default</category>
     </categories>
     <offers>
+      <offer id="A07AV">
+        <count>14</count>
+      </offer>
+      <offer id="NY06">
+        <count>14</count>
+      </offer>
+      <offer id="NY24">
+        <count>11</count>
+      </offer>
+      <offer id="NY12">
+        <count>8</count>
+      </offer>
+      <offer id="A07AV">
+        <count>14</count>
+      </offer>
+      <offer id="NY06">
+        <count>14</count>
+      </offer>
+      <offer id="NY24">
+        <count>11</count>
+      </offer>
+      <offer id="NY12">
+        <count>8</count>
+      </offer>
+      <offer id="A07AV">
+        <count>14</count>
+      </offer>
+      <offer id="NY06">
+        <count>14</count>
+      </offer>
+      <offer id="NY24">
+        <count>11</count>
+      </offer>
+      <offer id="NY12">
+        <count>8</count>
+      </offer>
+      <offer id="A07AV">
+        <count>14</count>
+      </offer>
+      <offer id="NY06">
+        <count>14</count>
+      </offer>
+      <offer id="NY24">
+        <count>11</count>
+      </offer>
+      <offer id="NY12">
+        <count>8</count>
+      </offer>
+      <offer id="A07AV">
+        <count>14</count>
+      </offer>
+      <offer id="NY06">
+        <count>14</count>
+      </offer>
+      <offer id="NY24">
+        <count>11</count>
+      </offer>
+      <offer id="NY12">
+        <count>8</count>
+      </offer>
+      <offer id="A07AV">
+        <count>14</count>
+      </offer>
+      <offer id="NY06">
+        <count>14</count>
+      </offer>
+      <offer id="NY24">
+        <count>11</count>
+      </offer>
+      <offer id="NY12">
+        <count>8</count>
+      </offer>
+      <offer id="A07AV">
+        <count>14</count>
+      </offer>
+      <offer id="NY06">
+        <count>14</count>
+      </offer>
+      <offer id="NY24">
+        <count>11</count>
+      </offer>
+      <offer id="NY12">
+        <count>8</count>
+      </offer>
+      <offer id="A07AV">
+        <count>14</count>
+      </offer>
+      <offer id="NY06">
+        <count>14</count>
+      </offer>
+      <offer id="NY24">
+        <count>11</count>
+      </offer>
+      <offer id="NY12">
+        <count>8</count>
+      </offer>
+      <offer id="A07AV">
+        <count>14</count>
+      </offer>
+      <offer id="NY06">
+        <count>14</count>
+      </offer>
+      <offer id="NY24">
+        <count>11</count>
+      </offer>
+      <offer id="NY12">
+        <count>8</count>
+      </offer>
+      <offer id="A07AV">
+        <count>14</count>
+      </offer>
+      <offer id="NY06">
+        <count>14</count>
+      </offer>
+      <offer id="NY24">
+        <count>11</count>
+      </offer>
+      <offer id="NY12">
+        <count>8</count>
+      </offer>
+      <offer id="A07AV">
+        <count>14</count>
+      </offer>
+      <offer id="NY06">
+        <count>14</count>
+      </offer>
+      <offer id="NY24">
+        <count>11</count>
+      </offer>
+      <offer id="NY12">
+        <count>8</count>
+      </offer>
+      <offer id="A07AV">
+        <count>14</count>
+      </offer>
+      <offer id="NY06">
+        <count>14</count>
+      </offer>
+      <offer id="NY24">
+        <count>11</count>
+      </offer>
+      <offer id="NY12">
+        <count>8</count>
+      </offer>
+      <offer id="A07AV">
+        <count>14</count>
+      </offer>
+      <offer id="NY06">
+        <count>14</count>
+      </offer>
+      <offer id="NY24">
+        <count>11</count>
+      </offer>
+      <offer id="NY12">
+        <count>8</count>
+      </offer>
+      <offer id="A07AV">
+        <count>14</count>
+      </offer>
+      <offer id="NY06">
+        <count>14</count>
+      </offer>
+      <offer id="NY24">
+        <count>11</count>
+      </offer>
+      <offer id="NY12">
+        <count>8</count>
+      </offer>
+      <offer id="A07AV">
+        <count>14</count>
+      </offer>
+      <offer id="NY06">
+        <count>14</count>
+      </offer>
+      <offer id="NY24">
+        <count>11</count>
+      </offer>
+      <offer id="NY12">
+        <count>8</count>
+      </offer>
+      <offer id="A07AV">
+        <count>14</count>
+      </offer>
+      <offer id="NY06">
+        <count>14</count>
+      </offer>
+      <offer id="NY24">
+        <count>11</count>
+      </offer>
+      <offer id="NY12">
+        <count>8</count>
+      </offer>
+      <offer id="A07AV">
+        <count>14</count>
+      </offer>
+      <offer id="NY06">
+        <count>14</count>
+      </offer>
+      <offer id="NY24">
+        <count>11</count>
+      </offer>
+      <offer id="NY12">
+        <count>8</count>
+      </offer>
+      <offer id="A07AV">
+        <count>14</count>
+      </offer>
+      <offer id="NY06">
+        <count>14</count>
+      </offer>
+      <offer id="NY24">
+        <count>11</count>
+      </offer>
+      <offer id="NY12">
+        <count>8</count>
+      </offer>
+      <offer id="A07AV">
+        <count>14</count>
+      </offer>
+      <offer id="NY06">
+        <count>14</count>
+      </offer>
+      <offer id="NY24">
+        <count>11</count>
+      </offer>
+      <offer id="NY12">
+        <count>8</count>
+      </offer>
+      <offer id="A07AV">
+        <count>14</count>
+      </offer>
+      <offer id="NY06">
+        <count>14</count>
+      </offer>
+      <offer id="NY24">
+        <count>11</count>
+      </offer>
+      <offer id="NY12">
+        <count>8</count>
+      </offer>
+      <offer id="A07AV">
+        <count>14</count>
+      </offer>
+      <offer id="NY06">
+        <count>14</count>
+      </offer>
+      <offer id="NY24">
+        <count>11</count>
+      </offer>
+      <offer id="NY12">
+        <count>8</count>
+      </offer>
+      <offer id="A07AV">
+        <count>14</count>
+      </offer>
+      <offer id="NY06">
+        <count>14</count>
+      </offer>
+      <offer id="NY24">
+        <count>11</count>
+      </offer>
+      <offer id="NY12">
+        <count>8</count>
+      </offer>
+      <offer id="A07AV">
+        <count>14</count>
+      </offer>
+      <offer id="NY06">
+        <count>14</count>
+      </offer>
+      <offer id="NY24">
+        <count>11</count>
+      </offer>
+      <offer id="NY12">
+        <count>8</count>
+      </offer>
+      <offer id="A07AV">
+        <count>14</count>
+      </offer>
+      <offer id="NY06">
+        <count>14</count>
+      </offer>
+      <offer id="NY24">
+        <count>11</count>
+      </offer>
+      <offer id="NY12">
+        <count>8</count>
+      </offer>
+      <offer id="A07AV">
+        <count>14</count>
+      </offer>
+      <offer id="NY06">
+        <count>14</count>
+      </offer>
+      <offer id="NY24">
+        <count>11</count>
+      </offer>
+      <offer id="NY12">
+        <count>8</count>
+      </offer>
+      <offer id="A07AV">
+        <count>14</count>
+      </offer>
+      <offer id="NY06">
+        <count>14</count>
+      </offer>
+      <offer id="NY24">
+        <count>11</count>
+      </offer>
+      <offer id="NY12">
+        <count>8</count>
+      </offer>
+      <offer id="A07AV">
+        <count>14</count>
+      </offer>
+      <offer id="NY06">
+        <count>14</count>
+      </offer>
+      <offer id="NY24">
+        <count>11</count>
+      </offer>
+      <offer id="NY12">
+        <count>8</count>
+      </offer>
+      <offer id="A07AV">
+        <count>14</count>
+      </offer>
+      <offer id="NY06">
+        <count>14</count>
+      </offer>
+      <offer id="NY24">
+        <count>11</count>
+      </offer>
+      <offer id="NY12">
+        <count>8</count>
+      </offer>
+      <offer id="A07AV">
+        <count>14</count>
+      </offer>
+      <offer id="NY06">
+        <count>14</count>
+      </offer>
+      <offer id="NY24">
+        <count>11</count>
+      </offer>
+      <offer id="NY12">
+        <count>8</count>
+      </offer>
+      <offer id="A07AV">
+        <count>14</count>
+      </offer>
+      <offer id="NY06">
+        <count>14</count>
+      </offer>
+      <offer id="NY24">
+        <count>11</count>
+      </offer>
+      <offer id="NY12">
+        <count>8</count>
+      </offer>
+      <offer id="A07AV">
+        <count>14</count>
+      </offer>
+      <offer id="NY06">
+        <count>14</count>
+      </offer>
+      <offer id="NY24">
+        <count>11</count>
+      </offer>
+      <offer id="NY12">
+        <count>8</count>
+      </offer>
+      <offer id="A07AV">
+        <count>14</count>
+      </offer>
+      <offer id="NY06">
+        <count>14</count>
+      </offer>
+      <offer id="NY24">
+        <count>11</count>
+      </offer>
+      <offer id="NY12">
+        <count>8</count>
+      </offer>
+      <offer id="A07AV">
+        <count>14</count>
+      </offer>
+      <offer id="NY06">
+        <count>14</count>
+      </offer>
+      <offer id="NY24">
+        <count>11</count>
+      </offer>
+      <offer id="NY12">
+        <count>8</count>
+      </offer>
+      <offer id="A07AV">
+        <count>14</count>
+      </offer>
+      <offer id="NY06">
+        <count>14</count>
+      </offer>
+      <offer id="NY24">
+        <count>11</count>
+      </offer>
+      <offer id="NY12">
+        <count>8</count>
+      </offer>
+      <offer id="A07AV">
+        <count>14</count>
+      </offer>
+      <offer id="NY06">
+        <count>14</count>
+      </offer>
+      <offer id="NY24">
+        <count>11</count>
+      </offer>
+      <offer id="NY12">
+        <count>8</count>
+      </offer>
+      <offer id="A07AV">
+        <count>14</count>
+      </offer>
+      <offer id="NY06">
+        <count>14</count>
+      </offer>
+      <offer id="NY24">
+        <count>11</count>
+      </offer>
+      <offer id="NY12">
+        <count>8</count>
+      </offer>
+      <offer id="A07AV">
+        <count>14</count>
+      </offer>
+      <offer id="NY06">
+        <count>14</count>
+      </offer>
+      <offer id="NY24">
+        <count>11</count>
+      </offer>
+      <offer id="NY12">
+        <count>8</count>
+      </offer>
+      <offer id="A07AV">
+        <count>14</count>
+      </offer>
+      <offer id="NY06">
+        <count>14</count>
+      </offer>
+      <offer id="NY24">
+        <count>11</count>
+      </offer>
+      <offer id="NY12">
+        <count>8</count>
+      </offer>
+      <offer id="A07AV">
+        <count>14</count>
+      </offer>
+      <offer id="NY06">
+        <count>14</count>
+      </offer>
+      <offer id="NY24">
+        <count>11</count>
+      </offer>
+      <offer id="NY12">
+        <count>8</count>
+      </offer>
+      <offer id="A07AV">
+        <count>14</count>
+      </offer>
+      <offer id="NY06">
+        <count>14</count>
+      </offer>
+      <offer id="NY24">
+        <count>11</count>
+      </offer>
+      <offer id="NY12">
+        <count>8</count>
+      </offer>
+      <offer id="A07AV">
+        <count>14</count>
+      </offer>
+      <offer id="NY06">
+        <count>14</count>
+      </offer>
+      <offer id="NY24">
+        <count>11</count>
+      </offer>
+      <offer id="NY12">
+        <count>8</count>
+      </offer>
+      <offer id="A07AV">
+        <count>14</count>
+      </offer>
+      <offer id="NY06">
+        <count>14</count>
+      </offer>
+      <offer id="NY24">
+        <count>11</count>
+      </offer>
+      <offer id="NY12">
+        <count>8</count>
+      </offer>
+      <offer id="A07AV">
+        <count>14</count>
+      </offer>
+      <offer id="NY06">
+        <count>14</count>
+      </offer>
+      <offer id="NY24">
+        <count>11</count>
+      </offer>
+      <offer id="NY12">
+        <count>8</count>
+      </offer>
+      <offer id="A07AV">
+        <count>14</count>
+      </offer>
+      <offer id="NY06">
+        <count>14</count>
+      </offer>
+      <offer id="NY24">
+        <count>11</count>
+      </offer>
+      <offer id="NY12">
+        <count>8</count>
+      </offer>
+      <offer id="A07AV">
+        <count>14</count>
+      </offer>
+      <offer id="NY06">
+        <count>14</count>
+      </offer>
+      <offer id="NY24">
+        <count>11</count>
+      </offer>
+      <offer id="NY12">
+        <count>8</count>
+      </offer>
+      <offer id="A07AV">
+        <count>14</count>
+      </offer>
+      <offer id="NY06">
+        <count>14</count>
+      </offer>
+      <offer id="NY24">
+        <count>11</count>
+      </offer>
+      <offer id="NY12">
+        <count>8</count>
+      </offer>
+      <offer id="A07AV">
+        <count>14</count>
+      </offer>
+      <offer id="NY06">
+        <count>14</count>
+      </offer>
+      <offer id="NY24">
+        <count>11</count>
+      </offer>
+      <offer id="NY12">
+        <count>8</count>
+      </offer>
+      <offer id="A07AV">
+        <count>14</count>
+      </offer>
+      <offer id="NY06">
+        <count>14</count>
+      </offer>
+      <offer id="NY24">
+        <count>11</count>
+      </offer>
+      <offer id="NY12">
+        <count>8</count>
+      </offer>
+      <offer id="A07AV">
+        <count>14</count>
+      </offer>
+      <offer id="NY06">
+        <count>14</count>
+      </offer>
+      <offer id="NY24">
+        <count>11</count>
+      </offer>
+      <offer id="NY12">
+        <count>8</count>
+      </offer>
+      <offer id="A07AV">
+        <count>14</count>
+      </offer>
+      <offer id="NY06">
+        <count>14</count>
+      </offer>
+      <offer id="NY24">
+        <count>11</count>
+      </offer>
+      <offer id="NY12">
+        <count>8</count>
+      </offer>
+      <offer id="A07AV">
+        <count>14</count>
+      </offer>
+      <offer id="NY06">
+        <count>14</count>
+      </offer>
+      <offer id="NY24">
+        <count>11</count>
+      </offer>
+      <offer id="NY12">
+        <count>8</count>
+      </offer>
+      <offer id="A07AV">
+        <count>14</count>
+      </offer>
+      <offer id="NY06">
+        <count>14</count>
+      </offer>
+      <offer id="NY24">
+        <count>11</count>
+      </offer>
+      <offer id="NY12">
+        <count>8</count>
+      </offer>
+      <offer id="A07AV">
+        <count>14</count>
+      </offer>
+      <offer id="NY06">
+        <count>14</count>
+      </offer>
+      <offer id="NY24">
+        <count>11</count>
+      </offer>
+      <offer id="NY12">
+        <count>8</count>
+      </offer>
+      <offer id="A07AV">
+        <count>14</count>
+      </offer>
+      <offer id="NY06">
+        <count>14</count>
+      </offer>
+      <offer id="NY24">
+        <count>11</count>
+      </offer>
+      <offer id="NY12">
+        <count>8</count>
+      </offer>
+      <offer id="A07AV">
+        <count>14</count>
+      </offer>
+      <offer id="NY06">
+        <count>14</count>
+      </offer>
+      <offer id="NY24">
+        <count>11</count>
+      </offer>
+      <offer id="NY12">
+        <count>8</count>
+      </offer>
+      <offer id="A07AV">
+        <count>14</count>
+      </offer>
+      <offer id="NY06">
+        <count>14</count>
+      </offer>
+      <offer id="NY24">
+        <count>11</count>
+      </offer>
+      <offer id="NY12">
+        <count>8</count>
+      </offer>
+      <offer id="A07AV">
+        <count>14</count>
+      </offer>
+      <offer id="NY06">
+        <count>14</count>
+      </offer>
+      <offer id="NY24">
+        <count>11</count>
+      </offer>
+      <offer id="NY12">
+        <count>8</count>
+      </offer>
+      <offer id="A07AV">
+        <count>14</count>
+      </offer>
+      <offer id="NY06">
+        <count>14</count>
+      </offer>
+      <offer id="NY24">
+        <count>11</count>
+      </offer>
+      <offer id="NY12">
+        <count>8</count>
+      </offer>
+      <offer id="A07AV">
+        <count>14</count>
+      </offer>
+      <offer id="NY06">
+        <count>14</count>
+      </offer>
+      <offer id="NY24">
+        <count>11</count>
+      </offer>
+      <offer id="NY12">
+        <count>8</count>
+      </offer>
+      <offer id="A07AV">
+        <count>14</count>
+      </offer>
+      <offer id="NY06">
+        <count>14</count>
+      </offer>
+      <offer id="NY24">
+        <count>11</count>
+      </offer>
+      <offer id="NY12">
+        <count>8</count>
+      </offer>
+      <offer id="A07AV">
+        <count>14</count>
+      </offer>
+      <offer id="NY06">
+        <count>14</count>
+      </offer>
+      <offer id="NY24">
+        <count>11</count>
+      </offer>
+      <offer id="NY12">
+        <count>8</count>
+      </offer>
+      <offer id="A07AV">
+        <count>14</count>
+      </offer>
+      <offer id="NY06">
+        <count>14</count>
+      </offer>
+      <offer id="NY24">
+        <count>11</count>
+      </offer>
+      <offer id="NY12">
+        <count>8</count>
+      </offer>
       <offer id="A07AV">
         <count>14</count>
       </offer>
