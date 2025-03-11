@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-03-10T14:10:05.607+00:00">
+<yml_catalog date="2025-03-11T00:00:54.614+00:00">
   <shop>
     <name>Origami Chocolate</name>
     <company>Origami Chocolate</company>
@@ -9,38 +9,38 @@
       <category id="1">Default</category>
     </categories>
     <offers>
-      <offer id="love12">
-        <count>0</count>
+      <offer id="love06">
+        <count>6</count>
       </offer>
       <offer id="love24">
         <count>10</count>
       </offer>
-      <offer id="val03">
+      <offer id="A006WH">
         <count>21</count>
       </offer>
-      <offer id="A07AV">
-        <count>10</count>
-      </offer>
-      <offer id="love06">
-        <count>6</count>
-      </offer>
-      <offer id="val01">
-        <count>22</count>
+      <offer id="val03">
+        <count>21</count>
       </offer>
       <offer id="val02">
         <count>17</count>
       </offer>
-      <offer id="A006WH">
-        <count>21</count>
-      </offer>
-      <offer id="NY24">
-        <count>7</count>
+      <offer id="val01">
+        <count>22</count>
       </offer>
       <offer id="NY06">
         <count>14</count>
       </offer>
+      <offer id="NY24">
+        <count>7</count>
+      </offer>
       <offer id="NY12">
         <count>4</count>
+      </offer>
+      <offer id="A07AV">
+        <count>10</count>
+      </offer>
+      <offer id="love12">
+        <count>-2</count>
       </offer>
     </offers>
   </shop>
